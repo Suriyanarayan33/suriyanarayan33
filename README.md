@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I'm Suriya
+An aspiring Data Analyst
 
 <!--
 **Suriyanarayan33/suriyanarayan33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
